@@ -1,8 +1,8 @@
 <h1>Olá, eu sou Gustavo! 👋</h1>
 
-* Sou estudante e estou cursando Desenvolvimento de Software Multiplataforma na FATEC Prof. Jessen Vidal
-* Técnico em Desenvolvimento de Sistemas pela ETEC
-* Sempre buscando novos conhecimentos
+* Sou estudante e estou cursando Desenvolvimento de Software Multiplataforma na FATEC Prof. Jessen Vidal.
+* Técnico em Desenvolvimento de Sistemas pela ETEC.
+* Sempre buscando novos conhecimentos!
 
 ### 🛠️ Tecnologias e Ferramentas
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,13 +24,15 @@ https://www.linkedin.com/in/gustavo-oliveira-1056303a8)
 
 ---
 
-### 📊 Minhas Estatísticas
+### 📊 Estatisticas do GitHub
 
 <div>
 <a href="https://github.com/gustaft07">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustaft07&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gustaft07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
+![Status de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=gustaft07&theme=radical)
 
 
 
