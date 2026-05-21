@@ -1,9 +1,13 @@
 <h1>Olá, eu sou Gustavo! 👋</h1>
 
-* Sou estudante e estou cursando Desenvolvimento de Software Multiplataforma na FATEC Prof. Jessen Vidal.
-* Técnico em Desenvolvimento de Sistemas pela ETEC.
-* Buscando vagas de Estágio/Desenvolvedor Junior em backend ou fullstack!
-* Sempre buscando novos conhecimentos!
+<p align="left">
+  <strong>Estudante de Desenvolvimento de Software Multiplataforma (FATEC Prof. Jessen Vidal) & Técnico em DS (ETEC)</strong><br>
+  🎯 Buscando oportunidades de Estágio / Desenvolvedor Júnior focado em Backend (Python/Flask) e Fullstack.
+</p>
+
+* 🎓 Técnico em Desenvolvimento de Sistemas pela ETEC.
+* 🚀 Atualmente aprofundando conhecimentos em arquitetura de software, APIs RESTful e containerização.
+* 💡 Apaixonado por resolver problemas reais através do código.
 
 ### 🛠️ Tecnologias e Ferramentas
 <p align="center">
